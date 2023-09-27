@@ -1,7 +1,7 @@
-# Use dynamic programming and branch and bound to solve this problem
+# Dùng thuật toán quy hoạch động và nhánh cận giải bài toán sau
 
-* Graph Coloring 
+* Tô màu đồ thì
 
-* Traveling Salesman Problem
+* Bài toán người bán hàng
 
-## Use C/C++ or Java
+## [!] Dùng c++/java

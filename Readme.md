@@ -1,13 +1,13 @@
-# Includes 6 topics 
+# Bao gồm 6 chuyên đề
 
-## Survey algorithm design strategies and types of data structures
+## [1] Khảo sát các chiến lược thiết kế thuật toán, các loại cấu trúc dữ liệu
 
-## Survey of advances graph algorithms and applications
+## [2] Khảo sát các thuật toán đồ thị nâng cao và ứng dụng
 
-## Heuristic strategies and applications for solving optimization problems
+## [3] Chiến lược Heuristic và ứng dụng giải bài toán tối ưu
 
-## Metaheuristic strategies and applications for solving optimization problems
+## [4] Chiến lược Metaheuristic và ứng dụng giải bài toán tối ưu
 
-## Reasoning methods - survey of some machine learning algorithms
+## [5] Các phương pháp luận - khảo sát một số thuật toán học máy
 
-## Survey of some intelligent systems
+## [6] Khảo sát một số hệ thống thông minh
